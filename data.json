@@ -1,5 +1,5 @@
 {
-    "SupportedClient": "version-9dbf9780562444e1",
-    "SoftwareVersion": "1.06",
-    "Changelog": "Fixed Spectate, Teleportation Method (Camera)\nFixed Ambience (i haven't tested)\nFixed Values (IntValue, StringValue) whatever causes the crash\nFixed Da Hood Silent Aim (now its back working).\n+ Added Fallen Silent Aim (currently works on some gun) (BETA)\nnote: you should use some prediction cause this game is projectile based bullet.\nAdded Strucid Silent Aim (works on rifle gun)\nany issue lmk cause i gotta sleep now :rofl:"
+    "SupportedClient": "version-2b67309334b54dab",
+    "SoftwareVersion": "1.42",
+    "Changelog": "Added Drawing Library and More field properties in Lua VM\nFixed target hovering and chams."
 }
