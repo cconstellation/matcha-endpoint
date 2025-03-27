@@ -1,5 +1,5 @@
 {
-    "SupportedClient": "version-2b67309334b54dab",
-    "SoftwareVersion": "1.42",
-    "Changelog": "Added Drawing Library and More field properties in Lua VM\nFixed target hovering and chams."
+    "SupportedClient": "version-5a6b6797f4e04078",
+    "SoftwareVersion": "1.43",
+    "Changelog": "Added .Value in Lua VM"
 }
