@@ -1,5 +1,5 @@
 {
-    "SupportedClient": "version-5a6b6797f4e04078",
-    "SoftwareVersion": "1.43",
-    "Changelog": "Added .Value in Lua VM"
+    "SupportedClient": "version-347f4ac346734391",
+    "SoftwareVersion": "1.44",
+    "Changelog": "Preupdated to the latest version."
 }
