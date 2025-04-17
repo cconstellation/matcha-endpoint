@@ -1,5 +1,5 @@
     {
-    "SupportedClient": "version-c2c9efad42eb44e5",
-    "SoftwareVersion": "1.45",
-    "Changelog": "Forgot to update endpoint but, Updated to version-c2c9efad42eb44e5"
+    "SupportedClient": "version-b83d92f2144a48e2",
+    "SoftwareVersion": "1.46",
+    "Changelog": "Updated to the latest version, Added some more features (closest part and more parts into hitpart)"
 }
