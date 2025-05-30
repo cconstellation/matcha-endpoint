@@ -1,5 +1,5 @@
     {
-    "SupportedClient": "version-1ae53095a115415d",
-    "SoftwareVersion": "1.5.3",
-    "Changelog": "Updated to version-1ae53095a115415d"
+    "SupportedClient": "version-ad3ee47cdc5e44f6",
+    "SoftwareVersion": "1.5.4",
+    "Changelog": "Updated to version-ad3ee47cdc5e44f6 and fixed connection refuse."
 }
